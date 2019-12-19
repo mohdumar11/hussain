@@ -1,0 +1,24 @@
+
+.middle{
+background-image: url('https://whoishussain.b-cdn.net/wp-content/uploads/2019/08/arabian-desert-2.jpg');
+background-position: 50% 50%;
+ data-img-width="1200";
+ data-img-height="835";
+ padding: 10% 10%;
+ color: white;
+}
+.lower{
+background-image: url('https://whoishussain.b-cdn.net/wp-content/uploads/2015/10/karbala-day-of-ashura-arbaeen-imam-hussain.jpg');
+background-position: 50% 50%;
+ data-img-width="1200";
+  data-img-height="835";
+   padding: 10% 10%;
+   color: white;
+}
+.footer{
+  text-align: center;
+  margin: 1% 1%;
+}
+.navbar-brand{
+  
+}
